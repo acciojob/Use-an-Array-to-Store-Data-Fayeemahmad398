@@ -1,2 +1,2 @@
 
-let yourArray=['simran',true,'rahul',12,23];
+let yourArray=['simran',true,'rahul',12,'rahul'];
